@@ -32,7 +32,7 @@ This project is a simple yet functional Tetris game developed as a learning exer
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/YerraRahul23/tetris-pygame.git
-   cd tetris-pygame
+   cd Tetris-pygame
    ```
 
 2. **Install Dependencies:**
