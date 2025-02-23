@@ -43,7 +43,7 @@ This project is a simple yet functional Tetris game developed as a learning exer
 
 3. **Run the Game:**
    ```bash
-   python tetris.py
+   python Tetris.py
    ```
 
 ## How to Play
