@@ -1,5 +1,3 @@
-Below is a sample `README.md` file for your Tetris project that you can use on GitHub. It includes a description, screenshots (you'll need to add your own), installation instructions, controls, features, and a section for contributing or future improvements.
-
 ---
 
 # Tetris with Pygame
@@ -28,13 +26,12 @@ This project is a simple yet functional Tetris game developed as a learning exer
 *Game Over Screen:*
 ![Game Over Screenshot](screenshots/gameover.png)
 
-*(Note: Replace the screenshot paths above with actual images you capture from your game and upload to a `screenshots/` folder in your GitHub repository.)*
 
 ## Installation
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/tetris-pygame.git
+   git clone https://github.com/YerraRahul23/tetris-pygame.git
    cd tetris-pygame
    ```
 
