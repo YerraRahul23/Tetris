@@ -1,3 +1,10 @@
+![Tetris Banner](https://static0.anpoimages.com/wordpress/wp-content/uploads/2019/06/tetris.jpg)
+
+# Tetris Game in Python
+
+## About
+Python project using **Pygame** to create a classic **Tetris game**. Implements falling tetrominoes with randomized shapes, detects collisions, clears filled rows, and updates score in real-time. Demonstrates core game development concepts like event handling, grid management, and rendering graphics.
+
 ---
 
 # Tetris with Pygame
