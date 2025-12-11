@@ -25,14 +25,14 @@ A classic Tetris game built from scratch using Python and Pygame. This implement
 
 This project is a simple yet functional Tetris game developed as a learning exercise in Python and Pygame. It includes the core mechanics of Tetris such as piece movement, rotation, and line clearing, with a wider playfield (15 blocks) and a game-over screen with a restart button.
 
-## Screenshots
+<!--## Screenshots
 
 *Gameplay:*
 ![Gameplay Screenshot](screenshots/gameplay.png)
 
 *Game Over Screen:*
 ![Game Over Screenshot](screenshots/gameover.png)
-
+-->
 
 ## Installation
 
